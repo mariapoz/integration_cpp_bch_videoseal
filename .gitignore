@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+ckpts/*.jit
+outputs/
+*.log
+encoding_summary.csv
+# keep local secret key out of git
+permutation_key.bin
+*.mp4
+*.mp4
+*.mp4
