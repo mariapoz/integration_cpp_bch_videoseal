@@ -1,7 +1,5 @@
 # VideoSeal Watermarking with Hamming ECC + Permutation
 
-Это версия проекта в той же структуре, что старый `INTEGRATION_CPP_BCH`, но вместо RivaGAN используется **VideoSeal TorchScript**.
-
 ## Структура
 
 ```text
